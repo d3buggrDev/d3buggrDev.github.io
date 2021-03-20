@@ -1,6 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>update on d3buggr</title><link>https://d3buggr.dev/tags/update/</link><description>Recent content in update on d3buggr</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright 2020</copyright><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://d3buggr.dev/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Literally Keeping It Simple!</title><link>https://d3buggr.dev/post/keeping-it-simple/</link><pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate><guid>https://d3buggr.dev/post/keeping-it-simple/</guid><description>This is the last time I am creating a new Hugo block. This is the last time I try to change themes.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>update on d3buggr</title>
+    <link>https://d3buggr.dev/tags/update/</link>
+    <description>Recent content in update on d3buggr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright 2020</copyright>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://d3buggr.dev/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Literally Keeping It Simple!</title>
+      <link>https://d3buggr.dev/post/keeping-it-simple/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://d3buggr.dev/post/keeping-it-simple/</guid>
+      <description>This is the last time I am creating a new Hugo block. This is the last time I try to change themes.
 Let&amp;rsquo;s keep it simple from now on.
 This is the last time I am updating Hugo.
 You can say I am hard stuck on 0.79 from now on.
 I am angry cause I am wasting time and I know it :P
-See you.</description></item></channel></rss>
+See you.</description>
+    </item>
+    
+  </channel>
+</rss>
