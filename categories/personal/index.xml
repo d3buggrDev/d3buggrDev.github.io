@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on d3buggr</title>
+    <link>https://d3buggr.dev/categories/personal/</link>
+    <description>Recent content in personal on d3buggr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright 2020</copyright>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://d3buggr.dev/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lost Clarity</title>
+      <link>https://d3buggr.dev/post/lost/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://d3buggr.dev/post/lost/</guid>
+      <description>Why do the hard things still feel so hard to do.
+I know that I procrastinate a lot and I still give up on 80% of my projects.
+Because they are hard. There are too many unknowns.
+There is no clear direction and I feel lost.
+This is the hardest thing for me to find a way when there is no clear path.
+Which makes me think if there is ever a clear path.</description>
+    </item>
+    
+  </channel>
+</rss>
