@@ -75,7 +75,8 @@ img {
 }
 
 body {
-	background-color: var(--base01);
+	/* background-color: var(--base01); */
+	background-color: #2b2e30;
 }
 
 
@@ -277,7 +278,8 @@ p.attr {
 
 /* Dark Brown Scheme */
 .scheme-darkbrown .sidebar {
-	background-color: var(--base00);
+	/* background-color: var(--base00); */
+	background-color: #222526;
 	color: var(--base05);
 }
 .scheme-darkbrown .sidebar h1 {
