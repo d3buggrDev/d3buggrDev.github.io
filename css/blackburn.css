@@ -1,5 +1,6 @@
 .header {
-  font-family: "Raleway", Helvetica, Arial, sans-serif
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-size: 2em;
 }
 
 a {
@@ -86,4 +87,14 @@ i {
 
 .pagination a {
   color: #265778;
+}
+
+#main p {
+  font-weight: 500;
+  font-size: 1.2em;
+  color: #1c1c1c;
+}
+
+#main a {
+  font-size: 1.4em;
 }
